@@ -1,6 +1,8 @@
 # Single-cell reading list
 
-A curated selection of blog posts on single-cell data analysis.
+A curated selection of blog posts on single-cell data analysis. This list is a (constant) work in progress.
+
+The creation of this list was inspired by [Gopher Reading List](https://github.com/enocom/gopher-reading-list).
 
 ## Start here
 
@@ -17,3 +19,8 @@ A curated selection of blog posts on single-cell data analysis.
 ### Autoencoders
 
 - [Count based autoencoders and the future for scRNA-seq analysis](http://www.nxn.se/valent/2018/4/20/count-based-autoencoders-and-the-future-for-scrna-seq-analysis)
+
+## Other lists
+
+- [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
+
