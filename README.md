@@ -10,6 +10,8 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 ## Beginner
 
+- [On stabilizing mean-variance relationship in scRNA-seq data](http://www.nxn.se/valent/2017/10/15/variance-stabilizing-scrna-seq-counts)
+
 ## Intermediate
 
 - [Unique Molecular Identifiers – the problem, the solution and the proof](https://cgatoxford.wordpress.com/2015/08/14/unique-molecular-identifiers-the-problem-the-solution-and-the-proof/)
