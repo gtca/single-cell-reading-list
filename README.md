@@ -6,7 +6,7 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 ## Start here
 
-- [Analysis of single-cell RNA-seq data course](https://hemberg-lab.github.io/scRNA.seq.course/index.html)
+- [Analysis of single-cell RNA-seq data course](https://hemberg-lab.github.io/scRNA.seq.course/index.html) 
 
 ## Beginner
 
@@ -16,9 +16,11 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 ## Advanced
 
+- [Linking scRNA-seq to scDNA-seq data](https://kieranrcampbell.github.io/blog/2018/11/13/clonealign.html) by Kieran Campbell
+
 ### Autoencoders
 
-- [Count based autoencoders and the future for scRNA-seq analysis](http://www.nxn.se/valent/2018/4/20/count-based-autoencoders-and-the-future-for-scrna-seq-analysis)
+- [Count based autoencoders and the future for scRNA-seq analysis](http://www.nxn.se/valent/2018/4/20/count-based-autoencoders-and-the-future-for-scrna-seq-analysis) by Valentine Svensson
 
 ## Other lists
 
