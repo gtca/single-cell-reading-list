@@ -16,6 +16,8 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 - [Unique Molecular Identifiers – the problem, the solution and the proof](https://cgatoxford.wordpress.com/2015/08/14/unique-molecular-identifiers-the-problem-the-solution-and-the-proof/)
 
+- [Comment](https://www.charite-bioinformatik.de/publikationen_science_comment2017.php) on [Villani2017](http://science.sciencemag.org/content/356/6335/eaah4573) paper in Science about new types of dendritic cells and monocytes in human blood
+
 ## Advanced
 
 - [Linking scRNA-seq to scDNA-seq data](https://kieranrcampbell.github.io/blog/2018/11/13/clonealign.html) by Kieran Campbell
