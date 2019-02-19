@@ -8,6 +8,8 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 - [Analysis of single-cell RNA-seq data course](https://hemberg-lab.github.io/scRNA.seq.course/index.html) 
 
+- [Introduction to single-cell RNA-seq technologies](https://liorpachter.wordpress.com/2019/02/19/introduction-to-single-cell-rna-seq-technologies/) with [slides here](https://figshare.com/articles/Introduction_to_single-cell_RNA-seq_technologies/7704659/1)
+
 ## Beginner
 
 - [On stabilizing mean-variance relationship in scRNA-seq data](http://www.nxn.se/valent/2017/10/15/variance-stabilizing-scrna-seq-counts)
