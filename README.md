@@ -24,6 +24,8 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 - [Linking scRNA-seq to scDNA-seq data](https://kieranrcampbell.github.io/blog/2018/11/13/clonealign.html) by Kieran Campbell
 
+- [Low Rank Approximation of Kernels](https://twitter.com/GCLinderman/status/1094997866106507264) -- intuition behind [FIt-tSNE](https://www.nature.com/articles/s41592-018-0308-4)
+
 ### Autoencoders
 
 - [Count based autoencoders and the future for scRNA-seq analysis](http://www.nxn.se/valent/2018/4/20/count-based-autoencoders-and-the-future-for-scrna-seq-analysis) by Valentine Svensson
