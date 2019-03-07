@@ -30,6 +30,8 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 - [Count based autoencoders and the future for scRNA-seq analysis](http://www.nxn.se/valent/2018/4/20/count-based-autoencoders-and-the-future-for-scrna-seq-analysis) by Valentine Svensson
 
+- [Why variational autoencoders pursue PCA directions](https://arxiv.org/abs/1812.06775)
+
 ## Other lists
 
 - [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
