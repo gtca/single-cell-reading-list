@@ -6,11 +6,13 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 ## Start here
 
-- [Analysis of single-cell RNA-seq data course](https://hemberg-lab.github.io/scRNA.seq.course/index.html) 
+- [Analysis of single-cell RNA-seq data course](https://hemberg-lab.github.io/scRNA.seq.course/index.html)
 
 - [Introduction to single-cell RNA-seq technologies](https://liorpachter.wordpress.com/2019/02/19/introduction-to-single-cell-rna-seq-technologies/) with [slides here](https://figshare.com/articles/Introduction_to_single-cell_RNA-seq_technologies/7704659/1)
 
 - [Current best practices in scRNA-seq data analysis](https://www.embopress.org/lookup/doi/10.15252/msb.20188746) paper (Mol Syst Biol 2019)
+
+- [Orchestrating single-cell analysis with bioconductor](https://osca.bioconductor.org/)
 
 ## Beginner
 
