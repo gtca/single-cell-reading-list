@@ -26,7 +26,7 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 - [Comment](https://www.charite-bioinformatik.de/publikationen_science_comment2017.php) on [Villani2017](http://science.sciencemag.org/content/356/6335/eaah4573) paper in Science about new types of dendritic cells and monocytes in human blood
 
-- [Common pitfalls when clustering biological data)[https://stke.sciencemag.org/content/9/432/re6] paper
+- [Common pitfalls when clustering biological data](https://stke.sciencemag.org/content/9/432/re6) paper
 
 ## Advanced
 
