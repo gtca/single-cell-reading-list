@@ -20,6 +20,12 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 - [On stabilizing mean-variance relationship in scRNA-seq data](http://www.nxn.se/valent/2017/10/15/variance-stabilizing-scrna-seq-counts)
 
+### Benchmarks
+
+- [Batch correction methods](https://www.biorxiv.org/content/10.1101/2020.05.22.111211v2) (2020), also see [the GitHub repository](https://github.com/cellgeni/batchbench)
+
+- [Data integration methods](https://www.biorxiv.org/content/10.1101/2020.05.22.111161v2) (2020), also see [the GitHub repository](https://github.com/theislab/scib)
+
 ## Intermediate
 
 - [Unique Molecular Identifiers – the problem, the solution and the proof](https://cgatoxford.wordpress.com/2015/08/14/unique-molecular-identifiers-the-problem-the-solution-and-the-proof/)
