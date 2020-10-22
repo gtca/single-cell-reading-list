@@ -16,6 +16,10 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 - [Next-generation computational tools for interrogating cancer immunity](https://www.nature.com/articles/s41576-019-0166-7) paper (Nature Genetics Reviews 2019)
 
+### Videos
+
+- [scRNA-seq analyses: challanges, opportunities, and best practices (2020)](https://www.youtube.com/watch?v=q--Hr9ZOpH4) primer by Stephen Fleming (Broad Institute)
+
 ## Beginner
 
 - [On stabilizing mean-variance relationship in scRNA-seq data](http://www.nxn.se/valent/2017/10/15/variance-stabilizing-scrna-seq-counts)
