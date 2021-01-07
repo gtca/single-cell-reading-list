@@ -42,13 +42,17 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 - [Linking scRNA-seq to scDNA-seq data](https://kieranrcampbell.github.io/blog/2018/11/13/clonealign.html) by Kieran Campbell
 
-- [Low Rank Approximation of Kernels](https://twitter.com/GCLinderman/status/1094997866106507264) -- intuition behind [FIt-tSNE](https://www.nature.com/articles/s41592-018-0308-4). Also see [this paper](https://arxiv.org/abs/1902.05804) about revealing fine-grained structure by adjusting degree of freedom.
+- [Low Rank Approximation of Kernels](https://twitter.com/GCLinderman/status/1094997866106507264) — intuition behind [FIt-tSNE](https://www.nature.com/articles/s41592-018-0308-4). Also see [this paper](https://arxiv.org/abs/1902.05804) about revealing fine-grained structure by adjusting degree of freedom
 
 ### Autoencoders
 
 - [Count based autoencoders and the future for scRNA-seq analysis](http://www.nxn.se/valent/2018/4/20/count-based-autoencoders-and-the-future-for-scrna-seq-analysis) by Valentine Svensson
 
 - [Why variational autoencoders pursue PCA directions](https://arxiv.org/abs/1812.06775)
+
+### Multi-omics
+
+- [Single-cell multiomics: technologies and data analysis methods](https://www.nature.com/articles/s12276-020-0420-2) review (2020)
 
 ## Other lists
 
