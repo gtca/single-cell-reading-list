@@ -62,3 +62,4 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 - [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
 
+- [awesome-multi-omics](https://github.com/mikelove/awesome-multi-omics)
