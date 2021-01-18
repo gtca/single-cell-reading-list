@@ -14,6 +14,8 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 - [Current best practices in scRNA-seq data analysis](https://www.embopress.org/lookup/doi/10.15252/msb.20188746) paper (Mol Syst Biol 2019)
 
+- [Tutorial: guidelines for the computational analysis of single-cell RNA sequencing data](https://www.nature.com/articles/s41596-020-00409-w) paper (Nature Protocols 2020)
+
 - [Next-generation computational tools for interrogating cancer immunity](https://www.nature.com/articles/s41576-019-0166-7) paper (Nature Genetics Reviews 2019)
 
 ### Videos
@@ -29,6 +31,8 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 - [Batch correction methods](https://www.biorxiv.org/content/10.1101/2020.05.22.111211v2) (2020), also see [the GitHub repository](https://github.com/cellgeni/batchbench)
 
 - [Data integration methods](https://www.biorxiv.org/content/10.1101/2020.05.22.111161v2) (2020), also see [the GitHub repository](https://github.com/theislab/scib)
+
+- [Systematic comparison of single-cell and single-nucleus RNA-sequencing methods](https://www.nature.com/articles/s41587-020-0465-8) (2020), also see [the Bitbucket repository](https://bitbucket.org/jerry00/scumi-dev/src/master/)
 
 ## Intermediate
 
