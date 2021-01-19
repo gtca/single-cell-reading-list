@@ -48,6 +48,8 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 - [Low Rank Approximation of Kernels](https://twitter.com/GCLinderman/status/1094997866106507264) — intuition behind [FIt-tSNE](https://www.nature.com/articles/s41592-018-0308-4). Also see [this paper](https://arxiv.org/abs/1902.05804) about revealing fine-grained structure by adjusting degree of freedom
 
+- [RNA velocity of single cells](https://www.nature.com/articles/s41586-018-0414-6) (2018) and [dynamic modelling with scVelo](https://www.nature.com/articles/s41587-020-0591-3) (2020)
+
 ### Autoencoders
 
 - [Count based autoencoders and the future for scRNA-seq analysis](http://www.nxn.se/valent/2018/4/20/count-based-autoencoders-and-the-future-for-scrna-seq-analysis) by Valentine Svensson
