@@ -42,6 +42,8 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 - [Common pitfalls when clustering biological data](https://stke.sciencemag.org/content/9/432/re6) paper
 
+- [Droplet scRNA-seq is not zero-inflated](https://www.nature.com/articles/s41587-019-0379-5) (2020) and [UMI or not UMI, that is the question for scRNA-seq zero-inflation](https://www.nature.com/articles/s41587-020-00810-6) (2021)
+
 ## Advanced
 
 - [Linking scRNA-seq to scDNA-seq data](https://kieranrcampbell.github.io/blog/2018/11/13/clonealign.html) by Kieran Campbell
