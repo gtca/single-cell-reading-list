@@ -44,6 +44,8 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 - [Droplet scRNA-seq is not zero-inflated](https://www.nature.com/articles/s41587-019-0379-5) (2020) and [UMI or not UMI, that is the question for scRNA-seq zero-inflation](https://www.nature.com/articles/s41587-020-00810-6) (2021)
 
+- [Separating measurement and expression models clarifies confusion in single-cell RNA sequencing analysis](https://www.nature.com/articles/s41588-021-00873-4) (2021), which highlights the importance of disentangling _expression_ and _measurement_ models, and states that a _Poisson measurement model_ is usually the most appropriate one to use
+
 ## Advanced
 
 - [Linking scRNA-seq to scDNA-seq data](https://kieranrcampbell.github.io/blog/2018/11/13/clonealign.html) by Kieran Campbell
