@@ -46,6 +46,8 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 - [Separating measurement and expression models clarifies confusion in single-cell RNA sequencing analysis](https://www.nature.com/articles/s41588-021-00873-4) (2021), which highlights the importance of disentangling _expression_ and _measurement_ models, and states that a _Poisson measurement model_ is usually the most appropriate one to use
 
+- [Equivalence classes](http://mcmero.github.io/blog/Equivalence-classes/) in RNA-seq analyses
+
 ## Advanced
 
 - [Linking scRNA-seq to scDNA-seq data](https://kieranrcampbell.github.io/blog/2018/11/13/clonealign.html) by Kieran Campbell
