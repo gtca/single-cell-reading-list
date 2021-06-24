@@ -48,6 +48,8 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 - [Equivalence classes](http://mcmero.github.io/blog/Equivalence-classes/) in RNA-seq analyses
 
+- [Normalization and variance stabilization](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1874-1) and [analytic Pearson residuals](https://www.biorxiv.org/content/10.1101/2020.12.01.405886) for scRNA-seq data
+
 ## Advanced
 
 - [Linking scRNA-seq to scDNA-seq data](https://kieranrcampbell.github.io/blog/2018/11/13/clonealign.html) by Kieran Campbell
