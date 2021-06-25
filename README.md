@@ -58,6 +58,8 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 - [RNA velocity of single cells](https://www.nature.com/articles/s41586-018-0414-6) (2018) and [dynamic modelling with scVelo](https://www.nature.com/articles/s41587-020-0591-3) (2020)
 
+- [Optimizing expression quantitative trait locus mapping workflows for single-cell studies](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02407-x) (Genome Biology 2021)
+
 ### Autoencoders
 
 - [Count based autoencoders and the future for scRNA-seq analysis](http://www.nxn.se/valent/2018/4/20/count-based-autoencoders-and-the-future-for-scrna-seq-analysis) by Valentine Svensson
