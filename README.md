@@ -34,6 +34,8 @@ The creation of this list was inspired by [Gopher Reading List](https://github.c
 
 - [Systematic comparison of single-cell and single-nucleus RNA-sequencing methods](https://www.nature.com/articles/s41587-020-0465-8) (2020), also see [the Bitbucket repository](https://bitbucket.org/jerry00/scumi-dev/src/master/)
 
+- [Over 1000 tools reveal trends in the single-cell RNA-seq analysis landscape](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02519-4) (2021)
+
 ## Intermediate
 
 - [Unique Molecular Identifiers – the problem, the solution and the proof](https://cgatoxford.wordpress.com/2015/08/14/unique-molecular-identifiers-the-problem-the-solution-and-the-proof/)
